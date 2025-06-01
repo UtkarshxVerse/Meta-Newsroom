@@ -19,12 +19,13 @@
 
 .inHeader{
     width: 100%;
+    padding-top: 15px;
     margin: auto;
     display: flex;
 }
 
 .mainLogo{
-    padding:0px 20px;
+    margin:0px 20px;
 }
 
 .headerTwo{
